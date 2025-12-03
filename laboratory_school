@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="download__1_-removebg-preview.png">
+  <title>UNIVERSITY OF RIZAL SYSTEM</title>
+  <style>
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: url('https://images.unsplash.com/photo-1581092334505-e556d18eabff') no-repeat center center fixed;
+      background-size: cover;
+    }
+
+    header {
+      background: blue;
+      color: white;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .logo {
+      width: 60px;
+      height: 60px;
+      background: white;
+      border-radius: 50%;
+      padding: 5px;
+    }
+
+    h1{
+      font-size: 50px;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+    .container {
+      padding: 30px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 25px;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.92);
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 4px 12 a lightblue;
+      transition: transform 0.2s ease;
+     
+    }
+
+    .card:hover {
+      transform: scale(1.03);
+    }
+
+    .card img {
+      width: 20%;
+      border-radius:20px;
+      margin-top: 20px;
+    }
+
+
+    footer {
+      background: rgba(0,0,0,0.85);
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+
+
+  <!-- NAVIGATION BAR -->
+  <nav style="display:flex; justify-content:center; gap:40px; background:rgba(0,0,0,0.85); padding:15px;">
+    <a href="#home" style="color:white; text-decoration:none; font-size:18px;">Home</a>
+    <a href="#about" style="color:white; text-decoration:none; font-size:18px;">About Us</a>
+    <a href="#labs" style="color:white; text-decoration:none; font-size:18px;">Facilities </a>
+    <a href="#contact" style="color:white; text-decoration:none; font-size:18px;">Contact</a>
+  </nav>
+
+
+
+
+ 
+  <!-- HEADER -->
+  <header>
+  <img src="download__1_-removebg-preview.png" width="50px" height="50px" 
+  
+  <h1>UNIVERSITY OF RIZAL SYSTEM </h1>
+
+  </header>
+
+
+<center>
+  <h2>Nurtures to the Tommorrow's Noblest</h2>
+</center>
+
+    
+  <!-- HOME SECTION -->
+  <section id="home" style="padding:40px; text-align:center; color:white; background:rgba(0,0,0,0.5); margin:20px; border-radius:15px;">
+    <h2>Welcome to URS Morong High School and Grade school Laboratory </h2>
+ <img src="all teachers.jpg" width="200%" height="200%"
+     order: 1px solid black; margin-bottom: 25px;  style="font-size:18px; max-width:700px; margin:auto;">
+     
+
+  </section>
+
+  <!--about us SECTION -->
+  <section id="about" style="padding:30px; background:rgba(255,255,255,0.9); margin:20px; border-radius:15px;"   font-family: 'Times New Roman', Times, serif; >
+   
+    <h2>About Us</h2>
+    <p>An educational institution that works hand on hand with College of Education in training future edu.</p>
+    <h3>ADDRESS</h3>
+    <p>J. Sumulong St. San Juan, Morong, Philippines, 1960</p>
+  <h3>VISION</h3>
+  <p>The leading University in human resource development, knowledge and technology generation and environmental stewardship</p>
+  <h3> MISSION</h3>
+  <P>The University of Rizal System is committed to nurture and produce upright and competent graduates and empowered community through relevant and sustainable higher professional and technical instruction, research, extension and production services.</P>
+  <h3>CORE- VALUES</h3>
+      <li> R – Responsiveness</li>
+       <li>I – Integrity</li>
+       <li>S – Service</li>
+       <li>E – Excellence</li>
+       <li>S – Socail Responsiveness </li>
+
+  <h3>AMANG RODRIGUEZ HALL</h3>
+    <p>Amang Rodriguez Hall is the initial construction of the Morong High School complex, a multi-phase project of Gov. Isidro S. Rodriguez with the support of the Sangguniang Panlalawigan. This building was funded by the Provincial School Board chairmanned by Supt. Filologo O. Pante. Construction commenced on October 18, 1976, completed on June 3, 1977 and occupied on June 14, 1977.
+
+It is an educational investment dedicated to the youth of Rizal and an obsession of the Morong High School Parent-Teacher Association under the leadership of Pres. Agapito S. J. Austria. This edifice sparks the gradual unfolding of a new horizon envisioned by Gov. Isidro S. Rodriguez — that of converting Morong High School into a comprehensive high school.
+
+In memory of Eulogio "Amang" Rodriguez, Sr., a great national leader, this building is named after him.
+
+Inaugurated July 28, 1977.</p>
+
+<h3>HISTORICAL MARKER - UNIVERSITY OF RIZAL SYSTEM (MORONG RIZAL)</h3>
+  <P>This historical marker is dedicated to the community people, alumni, and administrators from 1944 to the present for their wholehearted support to the institution.
+
+<h3>MORONG HIGH SCHOOL NOW UNIVERSITY OF RIZAL SYSTEM</h3>
+<p>This historical marker is a representation of the endurance and dynamism of this institution through five decades as a citadel of learning.</p>
+
+<h3> Historical Development Timeline</h3>
+<li>August 16, 1944 
+  Establishment of Morong High School as a Provincial High School</li>
+<li>October 16, 1952 
+  Transfer of campus from Commandancia – Morong Town Plaza to this present site</li>
+<li> March 30, 1977  
+  Conversion to Morong National Comprehensive High School by virtue of Presidential Decree 1250</li>
+  <li>April 14, 1980  
+  Integration of Tomas Claudio Memorial Elementary School and Morong National Comprehensive High School, hence the name Morong National Comprehensive School</li>
+  <li> June 10, 1983  
+  Conversion of Morong National Comprehensive School to Rizal Technological and Polytechnic Institute by virtue of Batas Pambansa Blg. 469
+</li>
+<li>March 1, 1995  
+  Rizal Technological and Polytechnic Institute was converted into a State College known as Rizal Polytechnic College through R.A. 7933</li>
+  <li>August 11, 2001  
+  Republic Act 9157 established the University of Rizal System by integrating the Rizal Polytechnic College, Rizal State College, and Rizal Technological University
+</li>
+<li>March 4, 2001  
+  Retaining the name MORONG HIGH SCHOOL as Laboratory High School of URS Morong
+</li>
+
+<p>Installed on this 13th day of April 2004 at the University of Rizal System – Morong, Rizal in memory of the late Principal Mr. Lindeso S. Arceo</p>
+
+  </P> 
+  </section>
+
+
+
+  <!-- LAB CARDS -->
+  <section id="labs" class="container">
+ 
+    <div class="card" class="scroll container">
+      
+      <h2>Facilities</h2>
+      <img src="image 1.jpg"  alt="Facilities">
+      <img src="image 3.jpg" alt="Facilities">
+      <img src="image 4.jpg" alt="Facilities">
+      <img src="image 5.jpg" alt="Facilities">
+    </div>
+  </section>
+
+  <!-- CONTACT SECTION -->
+  <section id="contact" style="padding:30px; background:rgba(255,255,255,0.9); margin:20px; border-radius:15px;">
+    <h2>Contact Us  </h2>
+    <a href="https://www.facebook.com/URSMHSLaboratorySchools">UNIVERSITY OF RIZAL SYSTEM - MORONG,RIZAL</a>
+    <h2>Email</h2>
+    <p>labschoolmorong@urs.edu.ph</p>
+    <h2>Phone Number</h2>
+    <p>Phone: (02) 123-4567</p>
+    <h2>Location</h2>
+    <p>URS Morong Campus, Morong, Rizal</p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    © 2025 University of Rizal System – Morong Campus | School Laboratories Page
+  </footer>
+
+</body>
+</html>
+
+
